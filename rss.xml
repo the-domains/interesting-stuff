@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Interesting Stuff]]></title>
+        <description><![CDATA[Interesting Stuff]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 08 Jun 2016 15:06:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Data Virtualization for Hybrid Data Integration - Business Intelligence & Advanced Analytics]]></title>
+            <description><![CDATA[<article><h1>Data Virtualization for Hybrid Data Integration - Business Intelligence & Advanced Analytics</h1><p>A perfect storm of growing data sources, volumes, and varieties along with empowerment of self-service business analytics is driving the need for rapid, agile access to hybrid integrated data sources. Organizations are no longer willing to wait months or years for physical data warehouses to be developed.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/49e51892403d7710f5064aaa843f8b9920dd6023.jpg"></article>]]></description>
+            <link>http://www.jenunderwood.com/2016/06/06/data-virtualization-hybrid-data-integration/</link>
+            <guid isPermaLink="false">ad3921dd-df73-4474-979d-4f272a4df7bd</guid>
+            <pubDate>Wed, 08 Jun 2016 15:06:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
