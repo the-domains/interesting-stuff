@@ -1,14 +1,14 @@
-layout_spectrum: 0.5455391008872539
+layout_spectrum: 0.38966033421456814
 typography_spectrum: 0.9501097658649087
 color:
-  brandStrength: 0.5208714872132987
-  lightness: 0.34491664217785
-  saturation: 0.8646177188493311
-  rhythmicContrast: 0.9909133787732571
+  brandStrength: 0.6106786068994552
+  lightness: 0.5233114073053002
+  saturation: 0.27009300561621785
+  rhythmicContrast: 0.6965810863766819
   brandColors:
-    - '#E1E6FA'
-    - '#C4D7ED'
-    - '#ABC8E2'
-    - '#375D81'
-    - '#183152'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: Interesting Stuff
